@@ -17,3 +17,5 @@ Features:
 11) Hue
 12) OD280/OD315 of diluted wines
 13) Proline
+
+Data Source : https://archive.ics.uci.edu/ml/datasets/wine
